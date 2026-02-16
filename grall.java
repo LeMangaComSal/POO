@@ -1,7 +1,7 @@
 import static java.lang.System.out;
 import java.util.Scanner;
 
-
+//depois fazer uma opcao para determinar entre os valores 
 public class grall {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

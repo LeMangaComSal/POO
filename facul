@@ -1,0 +1,12 @@
+As variaveis precisam ser declarada o tipo dela, logo depois atribuir um valor a elas
+
+Uma variavel é um espaço na memoria do computador que vira a ser definido no pelo usuario e guardado na memoria do computador, ex
+int numero;
+
+Neste exemplo defino numero como uma variavel do tipo int(inteira)
+mas existe outras como char para caracteres, Double para numeradores maiores, String para uma cadeia de caracteres
+, caso queira definir o valor dela
+
+int numero=1;
+
+Agora a int numero, tem valor 1. O computador lê isso, e aloca na computador um espaço da memoria para isso
